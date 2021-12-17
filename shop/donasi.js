@@ -15,13 +15,13 @@ return `DONASI BISA VIA BANK / E-MONEY
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0857 9832 8466
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0857 9832 8466
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0857 9832 8466
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama NU***N
 `
 	}
 
