@@ -1,17 +1,17 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY NURDIN BOTZZ
+return `PAYMENT BY TZYDIN
 
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0857 9832 8466
+	ㅁ 
 2. OVO
-	ㅁ 0857 9832 8466
+	ㅁ 0859 5047 1442
 3. DANA
 	ㅁ 0857 9832 8466
 	
-Semuanya atas nama NU******NS
+Semuanya atas nama TZ**IN
 
 *📲 PULSA*
 
